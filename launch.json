@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "git",
+            "name": "Launch Chrome against git",
+            "url": "https://github.com/haya8888417/fares-.git",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
